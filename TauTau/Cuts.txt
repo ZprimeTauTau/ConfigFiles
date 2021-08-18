@@ -1,25 +1,12 @@
 ##### Without stitching (Inclusive + HTBinned Samples)
 Process & DY+Jets
-NRecoVertex & 207594721.6 $\pm$ 4941.2
-NRecoTriggers1 & 8874228.6 $\pm$ 3497.3
-NRecoMuon1 & 8746710.7 $\pm$ 3473.9
-NRecoElectron1 & 7350208.0 $\pm$ 3230.5 
-NRecoTau1 & 1402.6 $\pm$ 34.9 
-NRecoTau2 & 1402.6 $\pm$ 34.9 
-NRecoBJet & 1344.0 $\pm$ 34.6 
-METCut & 890.3 $\pm$ 27.1
-NDiTauCombinations & 347.6 $\pm$ 22.3
-NDiJetCombinations & 346.0 $\pm$ 22.3
-
-##### Stitching #####
-Process & DY+Jets
-NRecoVertex & 132694108.8 $\pm$ 9542.8
-NRecoTriggers1 & 6081114.4 $\pm$ 3247.4
-NRecoMuon1 & 5927862.2 $\pm$ 3207.5
-NRecoElectron1 & 5172048.8 $\pm$ 3001.6
-NRecoTau1 & 571.8 $\pm$ 30.3
-NRecoTau2 & 571.8 $\pm$ 30.3
-NRecoBJet & 570.3 $\pm$ 30.4
-METCut & 350.4 $\pm$ 23.3
-NDiTauCombinations & 322.9 $\pm$ 22.3
-NDiJetCombinations & 322.6 $\pm$ 22.3
+NRecoVertex & 217278470.8 $\pm$ 4045.5
+NRecoTriggers1 & 8992033.1 $\pm$ 3591.8
+NRecoMuon1 & 8889465.9 $\pm$ 3571.8
+NRecoElectron1 & 1157294.5 $\pm$ 1297.5
+NRecoTau1 &  1487.0 $\pm$ 36.4
+NRecoTau2 & 1487.0 $\pm$ 36.4
+NRecoBJet & 1424.7 $\pm$ 36.1
+METCut & 942.7 $\pm$ 28.2
+NDiTauCombinations & 225.3 $\pm$ 18.2
+NDiJetCombinations & 224.0 $\pm$ 18.2
